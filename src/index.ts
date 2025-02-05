@@ -62,7 +62,7 @@ export function apply(ctx: Context, config: Config) {
 
   ctx
     .command(
-      "chat-test <prompt:text>",
+      "chat <prompt:text>",
       `和AI聊天，当前AI模型:${openai.config.defaultModel}\n提示：建议配合系统提示词使用splitOutput、delimiter和charInterval设置`
     )
     .action(async ({ session }, prompt) => {
