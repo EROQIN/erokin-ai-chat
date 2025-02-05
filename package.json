@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-erokin-ai-chat",
-  "description": "一个可以接入AI大模型的bot(自用)",
-  "version": "0.0.1",
+  "description": "一个可以接入AI大模型的bot插件",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
