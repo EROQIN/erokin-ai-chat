@@ -1,6 +1,6 @@
 # erokin-ai-chat
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-erokin-ai-chat?style=flat-square)](https://www.npmjs.com/package/erokin-ai-chat)
+[![npm](https://img.shields.io/npm/v/koishi-plugin-erokin-ai-chat?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-erokin-ai-chat)
 
 
 一个基于 Koishi 框架的 AI 聊天插件，支持与 OpenAI 类型的 API 进行交互。该插件提供了丰富的配置选项，包括分割输出内容、自定义分隔符、模拟打字时间间隔以及预设人格等功能。
